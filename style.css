@@ -478,6 +478,10 @@ gap: 2.5rem;
     .about{
         flex-direction: column;
     }
+    .about .journey {
+        height:100%;
+        width:80%;
+    }
     .navbar{
         position: absolute;
         padding: 1rem 3%;
