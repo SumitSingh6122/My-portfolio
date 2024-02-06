@@ -523,6 +523,9 @@ gap: 2.5rem;
     .project{
         margin-bottom: 7rem;
     }   
+    .footer{
+        flex-direction: column-reverse;
+    }
     
 }
 @media (max-width:480px) {
