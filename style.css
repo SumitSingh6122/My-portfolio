@@ -530,8 +530,9 @@ gap: 2.5rem;
     }
     .project{
         margin-bottom: 7rem;
-    }   
-    
+    }  
+    .about-content{
+        margin-top:20px;
     
 }
 @media (max-width:480px) {
