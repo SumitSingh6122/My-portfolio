@@ -543,7 +543,7 @@ gap: 2.5rem;
         width: 100%;
     }
     .about.journey{
-        width:100%;
+        background-color:none;
     
 }
 @media (max-width:360px){
