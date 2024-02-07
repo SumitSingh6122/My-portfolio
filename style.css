@@ -219,6 +219,7 @@ height: 100%;
     height:80vh;
     display: block;
     overflow: auto;
+    border-radius:8px;
     
     
 }
@@ -537,14 +538,10 @@ gap: 2.5rem;
     html{
         font-size: 50%;
     }
-    .contact from .input-box input{
+    .contact form .input-box input{
         width: 100%;
     }
-    .contact from .input-box{
-        display:flex;
-        flex-direction:column;
-        width:100%;
-    }
+    
 }
 @media (max-width:360px){
     .home-img img{
